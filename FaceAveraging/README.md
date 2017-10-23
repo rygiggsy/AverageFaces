@@ -7,11 +7,12 @@
 $ python face_landmarks.py 
 ```
 
-	- Code has been changed so that only the best(one) face detected will be kept. 
+Note: Only the best(one) face detected will be kept. 
 	
 ### 2. Run face_average.py to get the average face. 
 ```bash
 $ python face_average.py 
 ```
 	- This script includes face alignment so that all facial features will appear better, compared to naive face averaging without alignment.  
-	3. Sample result can be found as output5.png. Enjoy!
+
+### 3. Sample results can be found as output5.png. Enjoy!
