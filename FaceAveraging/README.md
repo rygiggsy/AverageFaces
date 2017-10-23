@@ -6,7 +6,9 @@
 ```bash
 $ python face_landmarks.py 
 ```
+
 	- Code has been changed so that only the best(one) face detected will be kept. 
+	
 ### 2. Run face_average.py to get the average face. 
 ```bash
 $ python face_average.py 
