@@ -2,6 +2,8 @@
 
 ## Usage
 
+Update data directory with your set of images.
+
 ### 1. Run face_landmarks.py to extract facial landmarks. 
 ```bash
 $ python face_landmarks.py 
